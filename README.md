@@ -1,2 +1,2 @@
 # TallerPOO_3
-Solución del taller numero 3, resolviendo dos enunciados según el ultimo digito de la cedula
+Solution to workshop number 3, solving two statements based on the last digit of the ID number
